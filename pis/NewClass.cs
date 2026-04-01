@@ -8,9 +8,5 @@ namespace pis
 {
     internal class NewClass
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-        }
     }
 }
