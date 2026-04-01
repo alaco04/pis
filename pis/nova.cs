@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace pis
 {
-    internal class NewClass
+    internal class nova
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-        }
     }
 }
